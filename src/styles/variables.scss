@@ -1,0 +1,56 @@
+// 主题色彩
+$primary-color: #ff6b9d;
+$secondary-color: #4ecdc4;
+$accent-color: #45b7d1;
+$success-color: #96ceb4;
+$warning-color: #feca57;
+$danger-color: #ff6b6b;
+
+// 中性色
+$white: #ffffff;
+$light-gray: #f8f9fa;
+$gray: #6c757d;
+$dark-gray: #495057;
+$black: #212529;
+
+// 背景色
+$bg-primary: #ffffff;
+$bg-secondary: #f8f9fa;
+$bg-light: #e9ecef;
+
+// 文字颜色
+$text-primary: #212529;
+$text-secondary: #6c757d;
+$text-muted: #adb5bd;
+
+// 边框
+$border-color: #dee2e6;
+$border-radius: 8px;
+$border-radius-sm: 4px;
+$border-radius-lg: 12px;
+
+// 阴影
+$shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+$shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+$shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.15);
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// 字体大小
+$font-size-xs: 12px;
+$font-size-sm: 14px;
+$font-size-base: 16px;
+$font-size-lg: 18px;
+$font-size-xl: 20px;
+$font-size-xxl: 24px;
+
+// 响应式断点
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
